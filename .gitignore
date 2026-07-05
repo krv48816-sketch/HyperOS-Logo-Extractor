@@ -1,0 +1,5 @@
+```text
+*.img
+output_perfect/
+__pycache__/
+.idea/
